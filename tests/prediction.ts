@@ -1,5 +1,4 @@
 import * as anchor from "@coral-xyz/anchor";
-
 import { Prediction } from "../target/types/prediction";
 import { assert } from "chai";
 import { PublicKey } from '@solana/web3.js';
